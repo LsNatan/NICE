@@ -1,0 +1,7 @@
+pandas
+numpy
+torch>=0.4.0
+torchvision>=0.2.0
+bokeh>=0.12.12
+tqdm
+matplotlib
