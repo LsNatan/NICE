@@ -1,11 +1,25 @@
 # NICE
 This code implements NICE papper
 List of links to pre-trained models:
-DeepISP - http://www.mediafire.com/file/15anb9x44nxkkke/best_checkpoint.pth.tar/file
-ResNet18-CIFAR10 - http://www.mediafire.com/file/legt0epbrw8qii3/model_best.pth.tar/file
-ResNet18-ImageNet - http://www.mediafire.com/file/l5qbobd2mm5wry5/model_best.pth.tar/file
-ResNet34-ImageNet – http://www.mediafire.com/file/et7mvajxamm8sup/model_best.pth.tar/file
-ResNet50-ImageNet – http://www.mediafire.com/file/93f7s5h66d6n8z1/model_best.pth.tar/file
+DeepISP
+--------
+http://www.mediafire.com/file/15anb9x44nxkkke/best_checkpoint.pth.tar/file
+
+ResNet18-CIFAR10
+-----------------
+http://www.mediafire.com/file/legt0epbrw8qii3/model_best.pth.tar/file
+
+ResNet18-ImageNet
+-----------------
+http://www.mediafire.com/file/l5qbobd2mm5wry5/model_best.pth.tar/file
+
+ResNet34-ImageNet
+-----------------
+http://www.mediafire.com/file/et7mvajxamm8sup/model_best.pth.tar/file
+
+ResNet50-ImageNet
+-----------------
+http://www.mediafire.com/file/93f7s5h66d6n8z1/model_best.pth.tar/file
 
 Running instructions
 --------------------
